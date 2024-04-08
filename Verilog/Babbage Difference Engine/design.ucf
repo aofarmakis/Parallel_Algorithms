@@ -1,0 +1,27 @@
+net clk loc = T9;
+net reset loc = K4;
+net start loc = B3;
+
+net small_dip<2> loc = K3;
+net small_dip<1> loc = K2;
+net small_dip<0> loc = J4;
+
+net big_dip<7> loc = P12;
+net big_dip<6> loc = J1;
+net big_dip<5> loc = H1;
+net big_dip<4> loc = H3;
+net big_dip<3> loc = G2;
+net big_dip<2> loc = K15;
+net big_dip<1> loc = K16;
+net big_dip<0> loc = F15;
+
+net babbage_out_trunc<9> loc = J14;
+net babbage_out_trunc<8> loc = J16;
+net babbage_out_trunc<7> loc = H15;
+net babbage_out_trunc<6> loc = J13;
+net babbage_out_trunc<5> loc = L15;
+net babbage_out_trunc<4> loc = T13;
+net babbage_out_trunc<3> loc = N1;
+net babbage_out_trunc<2> loc = M3;
+net babbage_out_trunc<1> loc = N2;
+net babbage_out_trunc<0> loc = L5;
