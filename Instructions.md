@@ -1,4 +1,4 @@
-Εξομοίωση στο EDA Playground
+# Εξομοίωση στο EDA Playground
 α) Τυχαία διανύσματα δοκιμής (με αρχείο εξόδου): https://edaplayground.com/x/Q2HB
 β) Χειροκίνητη δοκιμή (με κυματομορφές των σημάτων): https://edaplayground.com/x/gkRP
 
